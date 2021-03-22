@@ -1,0 +1,21 @@
+VDD 3.3
+High_Thresh 0.9
+Low_Thresh 0.1
+Silent_Mode 0
+Trigger_Signal VDD
+Trigger_Low 1.2
+Trigger_High 3.3
+Trigger_Signal_Variations 8
+Population_Size 100
+Lib_Path= '/homes/oaramoon/PGD/sm046005-1f.lib'
+Number_Of_Inputs 2
+Number_of_Components 8
+pmos 3 pmos_3p3
+pmos 3 pmos_3p3
+pmos 3 pmos_3p3
+pmos 3 pmos_3p3
+pmos 3 pmos_3p3
+nmos 3 nmos_3p3
+nmos 3 nmos_3p3
+nmos 3 nmos_3p3
+

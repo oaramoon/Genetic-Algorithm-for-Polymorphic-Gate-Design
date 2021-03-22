@@ -1,0 +1,196 @@
+ ****** HSPICE -- L-2016.06-SP2-2 linux64 (Jan 24 2017) ******                  
+  Copyright (c) 1986 - 2019 by Synopsys, Inc. All Rights Reserved.              
+  This software and the associated documentation are proprietary
+  to Synopsys, Inc. This software may only be used in accordance
+  with the terms and conditions of a written license agreement with
+  Synopsys, Inc. All other use, reproduction, or distribution of
+  this software is strictly prohibited.
+  Input File: ./Gen2/G2_Ind485.sp                                               
+  Command line options: /dept/enee/software/synopsys/L-2016.06-SP2-2/hspice/linux64/hspice -i ./Gen2/G2_Ind485.sp -o ./Gen2/G2_Ind485.lis
+ lic:  
+ lic: FLEXlm: v11.2.1 
+ lic: USER:   oaramoon             HOSTNAME: compute3.physics.umd.edu 
+ lic: HOSTID: "00262d0b59a6"       PID:      20319 
+ lic: Using FLEXlm license file: 
+ lic: 27000@synopsyslic.eng.umd.edu 
+ lic: Checkout 1 hspice 
+ lic: License/Maintenance for hspice will expire on 30-apr-2020/2017.12 
+ lic: 1(in_use)/50(total) FLOATING license(s) on SERVER 27000@synopsyslic.eng.umd.edu 
+ lic:   
+  **info** (./Gen2/G2_Ind485.sp:18) DC voltage reset to initial transient source value in source 0:va. new dc=0.0000D+00
+ 
+
+  
+      
+ **info** set option symb=1 internally to help for convergence.
+ *****************************************************************
+ ******  option summary
+ ******
+ runlvl  = 3         bypass  = 2.0000    
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    1.200E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   1.2000   from=   1.0000n     to=   4.8000n
+ charge2= 114.6965m  from=   6.0000n     to=   9.8000n
+ charge3=  17.7710m  from=  11.0000n     to=  14.8000n
+ charge4=  12.5845m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    1.500E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   1.5000   from=   1.0000n     to=   4.8000n
+ charge2=  44.0686m  from=   6.0000n     to=   9.8000n
+ charge3= 625.2466m  from=  11.0000n     to=  14.8000n
+ charge4=  26.7598m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    1.800E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   1.8000   from=   1.0000n     to=   4.8000n
+ charge2=  37.6921m  from=   6.0000n     to=   9.8000n
+ charge3=   1.2493   from=  11.0000n     to=  14.8000n
+ charge4=  33.5457m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    2.100E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   2.1000   from=   1.0000n     to=   4.8000n
+ charge2=  34.6319m  from=   6.0000n     to=   9.8000n
+ charge3=   1.7521   from=  11.0000n     to=  14.8000n
+ charge4=  44.6431m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    2.400E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   2.4000   from=   1.0000n     to=   4.8000n
+ charge2=  58.9462m  from=   6.0000n     to=   9.8000n
+ charge3=   2.1653   from=  11.0000n     to=  14.8000n
+ charge4=  58.4411m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    2.700E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   2.7000   from=   1.0000n     to=   4.8000n
+ charge2=  74.2937m  from=   6.0000n     to=   9.8000n
+ charge3=   2.5386   from=  11.0000n     to=  14.8000n
+ charge4=  74.1976m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    3.000E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   3.0000   from=   1.0000n     to=   4.8000n
+ charge2=  91.6295m  from=   6.0000n     to=   9.8000n
+ charge3=   2.8865   from=  11.0000n     to=  14.8000n
+ charge4=  91.7353m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+ **info** dc convergence successful at Newton-Raphson method 
+
+   *** parameter vp =    3.300E+00 ***
+
+ ******
+ 
+
+ ****** transient analysis tnom=  25.000 temp=  25.000 ******
+ charge1=   3.3000   from=   1.0000n     to=   4.8000n
+ charge2= 111.3235m  from=   6.0000n     to=   9.8000n
+ charge3=   3.2149   from=  11.0000n     to=  14.8000n
+ charge4= 111.2755m  from=  16.0000n     to=  19.8000n
+
+          ***** job concluded
+1****** HSPICE -- L-2016.06-SP2-2 linux64 (Jan 24 2017) ******                  
+ ******  
+ 
+
+ ****** job statistics summary tnom=  25.000 temp=  25.000 ******
+  
+  
+ ******  Machine Information  ******
+ CPU:
+ model name	: Intel(R) Xeon(R) CPU           X5675  @ 3.07GHz
+ cpu MHz	: 1596.000
+  
+ OS:
+ Linux version 2.6.32-754.9.1.el6.x86_64 (mockbuild@x86-033.build.eng.bos.redhat.com) (gcc version 4.4.7 20120313 (Red Hat 4.4.7-23) (GCC) ) #1 SMP Wed Nov 21 15:08:21 EST 2018
+
+
+  ******  HSPICE Threads Information  ******
+
+  Command Line Threads Count :     1
+  Available CPU Count        :    24
+  Actual Threads Count       :     1
+
+
+  ******  Circuit Statistics  ******
+  # nodes       =       6 # elements   =      12
+  # resistors   =       0 # capacitors =       0 # inductors   =       0
+  # mutual_inds =       0 # vccs       =       0 # vcvs        =       0
+  # cccs        =       0 # ccvs       =       0 # volt_srcs   =       4
+  # curr_srcs   =       0 # diodes     =       0 # bjts        =       0
+  # jfets       =       0 # mosfets    =       8 # U elements  =       0
+  # T elements  =       0 # W elements =       0 # B elements  =       0
+  # S elements  =       0 # P elements =       0 # va device   =       0
+  # vector_srcs =       0 # N elements =       0
+
+
+  ******  Runtime Statistics (seconds)  ******
+
+  analysis           time    # points   tot. iter  conv.iter
+  op point           0.00           1          24
+  transient          0.11        1608        1553         580 rev=        40
+  readin             0.03
+  errchk             0.00
+  setup              0.01
+  output             0.00
+
+
+           peak memory used        194.75 megabytes
+           total cpu time            0.16 seconds
+           total elapsed time        0.31 seconds
+           job started at     13:35:00 01/29/2019
+           job ended   at     13:35:01 01/29/2019
+
+
+ lic: Release hspice token(s) 
+ lic: total license checkout elapse time:        0.22(s)
